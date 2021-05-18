@@ -45,3 +45,14 @@ body {
   flex-direction: column;
   color: white;
 }
+
+button {
+  font-size: 1.2rem;
+  padding: 0.7rem;
+}
+
+.button-box {
+  display: flex;
+  margin: 1rem;
+  justify-content: space-between;
+}
